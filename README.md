@@ -17,6 +17,12 @@ O aluno deverá desempenhar as seguintes atividades:
 É interessante que o nome do arquivo compactado descreva brevemente o que foi feito e por quem foi feito, conforme o seguinte exemplo:  
 “app-calculo-imc-xamarin-nome-sobrenome.zip”.
 
+## Run
+
+```
+$ expo start
+```
+
 
 ## License ##
 
