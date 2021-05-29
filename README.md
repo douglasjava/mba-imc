@@ -1,12 +1,12 @@
 # CALC IMC
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Language-Node/ReactJs/ReactNative-orange">
+	<img src="https://img.shields.io/badge/Language-ReactNative-orange">
 	<img src="https://img.shields.io/badge/Latest%20Update-29/05/2021-brightgreen.svg">
 
-## Code scaffolding
+## Code 
 
-Application create for activity of MBA IGTI Arquiteturas de Aplicações Mobile e Cloud-Native
+Application criada para atividade prévia para MBA IGTI Arquiteturas de Aplicações Mobile e Cloud-Native
 
 Atividades
 O aluno deverá desempenhar as seguintes atividades:
