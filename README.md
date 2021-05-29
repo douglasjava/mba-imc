@@ -2,7 +2,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Language-Node/ReactJs/ReactNative-orange">
-	<img src="https://img.shields.io/badge/Latest%20Update-30/03/2020-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-29/05/2021-brightgreen.svg">
 
 ## Code scaffolding
 
